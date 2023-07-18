@@ -10,6 +10,9 @@ function App() {
         <p>
           <Search />
         </p>
+        <a href="https://github.com/Hsa-moo344/React-Apps">
+          Open Source by Hsa Moo Moo
+        </a>
       </header>
     </div>
   );
